@@ -6,11 +6,7 @@ A sleek and interactive **e-commerce item page** designed using **HTML**, **CSS*
 
 ## 🎥 Preview
 
-![E-Commerce Item Page Preview](https://github.com/PriyankaPriyadarshani1024/modern-ecommerce-item-page/raw/main/Screenshot 2024-12-24 221552.png)
 
-> Replace `your-username` with your GitHub username and `preview.jpg` with your uploaded preview image.
-
----
 
 ## ✨ Features
 
